@@ -1,5 +1,7 @@
+import { homeStyle } from "./Home.css";
+
 const Home = () => {
-  return <>홈</>;
+  return <div className={homeStyle}>홈</div>;
 };
 
 export default Home;
