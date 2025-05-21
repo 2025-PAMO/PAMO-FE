@@ -7,7 +7,7 @@ export const vars = createGlobalTheme(':root', {
     white: '#ffffff',
     green: '#086840',
     yellow: '#7A8103',
-    purple: '#9747FF'
+    purple: '#9747FF',
   },
   font: {
     body: 'Noto Sans, sans-serif',
